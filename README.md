@@ -1,6 +1,8 @@
 ## 100 Days Of Codding
 My dtermination proves that if I constantly code with passion for the next 100 days I will be a Titan in codding
 
+<p><a href ="file:///C:/Users/Emmanuel/Desktop/projects/100-Days-Of-Codding/index.html">Click here to preview my progress</a></p>
+
 ![](images/js.jpg)
 
 ## MY EXPECTATIONS
