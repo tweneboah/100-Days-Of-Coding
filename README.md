@@ -6,7 +6,7 @@ My determination proves that if I constantly code with passion for the next 100 
 ## MY EXPECTATIONS
 Currently what I want to achieve as a developer is to know and use the following  languages
 - HTML
-- CS
+- CSS
 - JavaScript
 - React JS
 - Express JS
