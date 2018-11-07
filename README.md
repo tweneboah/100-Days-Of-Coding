@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-## 100 Days Of Codding
+
+## 100 Days Of Coding
 My dtermination proves that if I constantly code with passion for the next 100 days I will be a Titan in codding
 =======
 ## 100 Days Of Coding
