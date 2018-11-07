@@ -1,12 +1,17 @@
+<<<<<<< HEAD
 ## 100 Days Of Codding
 My dtermination proves that if I constantly code with passion for the next 100 days I will be a Titan in codding
+=======
+## 100 Days Of Coding
+My determination proves that if I constantly code with passion for the next 100 days I will be a Titan in coding
+>>>>>>> 416ea106ca300eb0cb5c3b7f401e2b2f516c49d6
 
 ![](images/js.jpg)
 
 ## MY EXPECTATIONS
 Currently what I want to achieve as a developer is to know and use the following  languages
 - HTML
-- CS
+- CSS
 - JavaScript
 - React JS
 - Express JS
@@ -18,7 +23,7 @@ After I have gotten all these skills, I will setup my own Company where I will e
 
 ## HOW CAN I BECOME A FULLSTACK DEVELOPER
 Below are some of the tips that can make me a good developer
-- Taking my 100 days Codding seriously
+- Taking my 100 days Coding seriously
 - Constant practicing
 - Working with a team
 - Learn what I love
@@ -27,4 +32,4 @@ Below are some of the tips that can make me a good developer
 - Start with the basics and let the complicated stuff look after itself
 - Reinvent the wheel
 
-# **I Was Born To Be ** A __Developer__!!!.
+# **I Was Born To Be** A __Developer__!!!.
