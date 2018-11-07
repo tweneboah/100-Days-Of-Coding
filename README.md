@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-## 100 Days Of Codding
-My dtermination proves that if I constantly code with passion for the next 100 days I will be a Titan in codding
-=======
-## 100 Days Of Coding
-My determination proves that if I constantly code with passion for the next 100 days I will be a Titan in coding
->>>>>>> 416ea106ca300eb0cb5c3b7f401e2b2f516c49d6
+
+# 100 Days Of Coding
+
+My determination proves that if I constantly code with passion for the next 100 days I will be a Titan in codding
 
 ![](images/js.jpg)
 
