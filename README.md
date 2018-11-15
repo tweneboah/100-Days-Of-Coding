@@ -15,9 +15,6 @@ Currently what I want to achieve as a developer is to know and use the following
 - Node Js
 - MongoDb
 
-## FUTURE GOALS
-After I have gotten all these skills, I will setup my own Company where I will employ people to work with me to reduce employment rate and also to become a freelancer
-
 ## HOW CAN I BECOME A FULLSTACK DEVELOPER
 Below are some of the tips that can make me a good developer
 - Taking my 100 days Coding seriously
