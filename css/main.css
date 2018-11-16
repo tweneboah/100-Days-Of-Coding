@@ -3,13 +3,35 @@ body{
 
 }
 
-#skills {
-    
-}
-
 .height {
    min-height: 100vh;
    align-items: center;
    
+}
 
+.text-underline {
+color: tomato;
+height: 10px;
+width: 200px;
+margin: 0 auto;
+}
+
+.img-height {
+   min-height: 80vh;
+   align-items: center;
+
+}
+
+.text-height {
+   min-height: 80vh;
+   align-items: center;
+
+}
+
+.about-picture {
+   background: url(../img/car1.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
