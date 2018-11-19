@@ -26,9 +26,17 @@ margin: 0 auto;
 }
 
 .about-picture {
-   background: url(../img/car1.jpg);
+   background: url(../img/car3.jpg);
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
    background-attachment: fixed;
+}
+
+#filler {
+   background: linear-gradient(rgba(15, 15, 14, 0.589), rgb(128, 36, 0)), url(../img/projects-1.jpeg);
+    background-size: cover;
+     background-repeat: no-repeat;
+      background-attachment: fixed;
+
 }
