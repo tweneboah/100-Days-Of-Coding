@@ -16,29 +16,53 @@
   <!-- main css -->
   <link rel="stylesheet" href="./css/main.css">
 </head>
+<!-- navbar -->
+<nav class="navbar py3 navbar-dark navbar-expand-sm bg-danger">
+  <!-- lOGO Either image/text -->
+  <a href="" class="navbar-brand text-uppercase font-weight-bold">Twentek Ghana</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarLinks">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarLinks">
+  <ul class="navbar-nav">
+        <li class="nav-item">
+          <a href="#home" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="#skills" class="nav-link">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a href="#about" class="nav-link">about</a>
+        </li>
+        <li class="nav-item">
+          <a href="#projects" class="nav-link">projects</a>
+        </li>
+        <li class="nav-item">
+          <a href="#teams" class="nav-link">Teams</a>
+        </li>
+        <li class="nav-item">
+          <a href="#contact" class="nav-link">Contact</a>
+        </li>
+  </ul>
+  </div>
 
+</nav>
+<!--End of navbar -->
 <body>
-
+<!-- Header -->
 <header id="header" class="bg-dark">
   <div class="container">
     <div class="row height">
-
       <div class="col">
         <h1 class="text-danger font-weight-bold">
           <strong>My Portfolio</strong>
           <small class="text-light">Emmanuel</small>
         </h1>
         <p class="text-muted lead py-2 w-75">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis eaque harum beatae tempore voluptates ipsam! Velit, harum laudantium quam quasi corporis rem a dignissimos nostrum, ipsa veritatis, aperiam suscipit aliquid!</p>
-
-
-        
         <div>
             <a href="" class="btn btn-outline-primary m-3 btn-lg px-5">Enquire</a>
             <a href="" class="btn btn-outline-success m-3 btn-lg px-5">Hire</a>
-        </div>
-
-
-       
+        </div>      
       </div>
     </div>
   </div>
@@ -662,7 +686,7 @@
 <!--End of Progress Section -->
 
 <!-- Pricing Section -->
-<section id="pricing" class="py-5 bg-warning">
+<section id="pricing" class="py-5 bg-warning ">
   <div class="container">
     <!-- Title -->
     <div class="row">
@@ -771,6 +795,71 @@
   </div>
 </section>
 <!--End of Pricing Section -->
+
+<!-- Footer Section -->
+<footer id="footer" class="bg-dark py-5">
+  <div class="container">
+     <!-- Title -->
+    <div class="row">
+      <div class="col text-center">
+        <h1 class="display-4 text-dark mb-0">
+           <strong class="text-white">GET IN TOUCH</strong>
+        </h1>
+        <div class="text-underline bg-danger text-center mb-3"></div>
+        <p class="text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate veritatis  earum.</p>
+      </div>
+    </div>
+    <!-- End of Get in touch  title -->
+    <div class="row text-center">
+      <div class="col">
+        <a href="" class="btn">
+          <i class="fab fa-facebook fa-3x m-3"></i>
+        </a>
+
+         <a href="" class="btn">
+          <i class="fab fa-google fa-3x m-3"></i>
+        </a>
+
+         <a href="" class="btn">
+          <i class="fab fa-twitter fa-3x m-3"></i>
+        </a>
+
+         <a href="" class="btn">
+          <i class="fab fa-instagram fa-3x m-3"></i>
+        </a>
+        <button type="button" class="btn btn-danger d-block mx-auto my-3" data-toggle="modal" data-target="#modal">Logout</button>
+        
+      </div>
+    </div>
+  </div>
+  
+</footer>
+<!--End of Footer Section -->
+
+<!-- Modal Section -->
+<div class="modal fade" id="modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <!-- Modal header -->
+      <div class="modal-header">
+        <h3 class="modal-title">Do you want to quit?</h3>
+        <button type="button" class="close" data-dismiss = "modal">&times;
+        </button>
+
+      </div>
+      <!-- modal body -->
+      <div class="modal-body">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, provident.</p>
+      </div>
+      <!-- modal footer - close button -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal"> Ok Quit</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal Section -->
+
 
   <!-- jquery -->
   <script src="./js/jquery-3.3.1.min.js"></script>
