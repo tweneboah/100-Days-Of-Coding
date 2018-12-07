@@ -1,6 +1,6 @@
 
 # 100 Days Of Coding
-
+### Live preview my progress <https://tweneboah.github.io/100-Days-Of-Coding>
 My determination proves that if I constantly code with passion for the next 100 days I will be a Titan in codding
 
 ![](images/js.jpg)
